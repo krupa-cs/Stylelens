@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="@string/nav_dashboard" />
+    
+    <item
+        android:id="@+id/nav_people"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="@string/nav_people" />
+    
+    <item
+        android:id="@+id/nav_space"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        android:title="@string/nav_space" />
+    
+    <item
+        android:id="@+id/nav_character"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="@string/nav_character" />
+    
+    <item
+        android:id="@+id/nav_favorites"
+        android:icon="@android:drawable/star_on"
+        android:title="@string/nav_favorites" />
+</menu>

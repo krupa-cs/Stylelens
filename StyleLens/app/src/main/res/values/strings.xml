@@ -1,0 +1,137 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Style Lens</string>
+    <string name="app_tagline">AI-Powered Sustainable Styling</string>
+    <string name="sdg_message">SDG 12: Responsible Consumption &amp; Production</string>
+    
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_people">People</string>
+    <string name="nav_space">Space</string>
+    <string name="nav_character">Character</string>
+    <string name="nav_social">Social</string>
+    <string name="nav_product">Products</string>
+    <string name="nav_favorites">Favorites</string>
+    
+    <!-- Menu Actions -->
+    <string name="action_profile">Profile</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_search">Search</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_share">Share</string>
+    
+    <!-- Authentication -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account? Register</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    
+    <!-- Style Input -->
+    <string name="body_type">Body Type</string>
+    <string name="skin_tone">Skin Tone</string>
+    <string name="occasion">Occasion</string>
+    <string name="gender">Gender</string>
+    <string name="budget">Budget</string>
+    <string name="accessories">Include Accessories</string>
+    <string name="sustainability_mode">Sustainability Mode</string>
+    <string name="color_preference">Color Preference</string>
+    <string name="generate_style">Generate Style</string>
+    
+    <!-- Gender Options -->
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    
+    <!-- Style Result -->
+    <string name="top_wear">Top Wear</string>
+    <string name="bottom_wear">Bottom Wear</string>
+    <string name="accessories_label">Accessories</string>
+    <string name="color_palette">Color Palette</string>
+    <string name="sustainability_score">Sustainability Score</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="save_to_favorites">Save to Favorites</string>
+    <string name="share_style">Share Style</string>
+    <string name="view_products">View Products</string>
+    
+    <!-- Profile -->
+    <string name="profile">Profile</string>
+    <string name="total_styles">Total Styles</string>
+    <string name="favorites_count">Favorites</string>
+    <string name="reused_items">Reused Items</string>
+    <string name="style_history">Style History</string>
+    
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="notifications">Notifications</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="about">About</string>
+    <string name="version">Version 1.0</string>
+    
+    <!-- Dashboard -->
+    <string name="welcome">Welcome</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="trending_palettes">Trending Palettes</string>
+    <string name="ai_insights">AI Insights</string>
+    <string name="style_yourself">Style Yourself</string>
+    <string name="style_room">Style a Room</string>
+    <string name="style_character">Style a Character</string>
+    <string name="style_product">Style a Product</string>
+    
+    <!-- Products -->
+    <string name="product_catalog">Product Catalog</string>
+    <string name="filter_all">All Products</string>
+    <string name="filter_clothing">Clothing</string>
+    <string name="filter_accessories">Accessories</string>
+    <string name="filter_footwear">Footwear</string>
+    <string name="filter_high_sustainability">High Sustainability</string>
+    
+    <!-- Context Menu -->
+    <string name="context_view">View</string>
+    <string name="context_share">Share</string>
+    <string name="context_delete">Delete</string>
+    <string name="context_edit">Edit</string>
+    
+    <!-- Messages -->
+    <string name="loading">Loading…</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="login_success">Login successful!</string>
+    <string name="register_success">Registration successful!</string>
+    <string name="logout_success">Logged out successfully</string>
+    <string name="saved_to_favorites">Saved to favorites!</string>
+    <string name="removed_from_favorites">Removed from favorites</string>
+    
+    <!-- Validation Messages -->
+    <string name="error_email_required">Email is required</string>
+    <string name="error_email_invalid">Invalid email format</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="error_password_short">Password must be at least 6 characters</string>
+    <string name="error_name_required">Name is required</string>
+    <string name="error_fields_required">Please fill all required fields</string>
+    
+    <!-- Sustainability -->
+    <string name="sustainability_excellent">Excellent - Eco Champion! 🌟</string>
+    <string name="sustainability_good">Good - Keep it up! 🌱</string>
+    <string name="sustainability_average">Average - Room for improvement 📈</string>
+    <string name="sustainability_low">Low - Consider sustainable choices 🌍</string>
+    
+    <!-- Empty States -->
+    <string name="no_favorites">No favorites yet</string>
+    <string name="no_history">No style history</string>
+    <string name="no_products">No products found</string>
+    
+    <!-- Buttons -->
+    <string name="btn_continue">Continue</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_retry">Retry</string>
+</resources>

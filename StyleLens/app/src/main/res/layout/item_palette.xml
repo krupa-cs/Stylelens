@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    style="@style/CardStyle"
+    android:layout_margin="8dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="12dp">
+
+        <TextView
+            android:id="@+id/tvPaletteName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Earth Luxe"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="8dp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="8dp">
+
+            <View
+                android:id="@+id/viewPrimaryColor"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@color/primary"
+                android:layout_marginEnd="4dp" />
+
+            <View
+                android:id="@+id/viewSecondaryColor"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@color/accent"
+                android:layout_marginEnd="4dp" />
+
+            <View
+                android:id="@+id/viewAccentColor"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@color/primary_dark" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvUsageType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Formal"
+            android:textSize="12sp"
+            android:textColor="@color/text_secondary" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
